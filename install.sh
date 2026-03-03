@@ -105,7 +105,7 @@ function confirm() {
     return 0
     ;;
   *)
-    echo "${RED}Aborting...${NORMAL}"
+    echo -e "${RED}Aborting...${NORMAL}"
     return 1
     ;;
   esac

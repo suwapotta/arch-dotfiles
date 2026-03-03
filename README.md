@@ -686,5 +686,5 @@ reboot
 
 - **MControlCenter** (MSI Laptop only)
 - **NVIDIA drivers** :(
-- **lazygit** setup
+- **lazygit** setup (`ssh-keygen` + `ssh-copy-id`)
 - **QEMU** VMs + **tuned** service
