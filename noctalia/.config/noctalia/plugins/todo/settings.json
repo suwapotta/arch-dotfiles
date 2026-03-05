@@ -51,5 +51,8 @@
       "hslLightness": 0.7803921699523926,
       "valid": true
     }
-  }
+  },
+  "exportPath": "~/Documents",
+  "exportFormat": "markdown",
+  "exportEmptySections": false
 }

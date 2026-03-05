@@ -304,7 +304,7 @@ if [[ $? -eq 1 ]]; then
   echo "${BLUE}::${NORMAL} Does ${RED}nuke snapshots${NORMAL}."
   echo
 fi
-drawProgressBar 5 5 "${GREEN}Completed...${NORMAL}"
+drawProgressBar 6 5 "${GREEN}Completed...${NORMAL}"
 
 # Return script runtime
 END=$SECONDS

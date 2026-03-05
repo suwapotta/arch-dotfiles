@@ -540,8 +540,6 @@ localectl status
 #   X11 Layout: (unset)
 ```
 
-<!-- ### Virtual machine scenario -->
-
 ### Network Manager
 
 [NetworkManager](https://wiki.archlinux.org/title/NetworkManager)

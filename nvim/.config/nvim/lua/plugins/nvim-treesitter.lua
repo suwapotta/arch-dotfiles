@@ -19,7 +19,6 @@ return {
         "latex",
         "bibtex",
         "python",
-        "norg",
         "scss",
         "svelte",
         "typst",
