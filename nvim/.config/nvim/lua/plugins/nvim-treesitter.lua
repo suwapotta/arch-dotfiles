@@ -10,6 +10,10 @@ return {
         "zsh",
         "fish",
         "kitty",
+        "regex",
+        "html",
+        "javascript",
+        "tsx",
         "json",
         "arduino",
         "c",
@@ -26,6 +30,7 @@ return {
         "kdl",
         "markdown",
         "markdown_inline",
+        "make",
       }
 
       if type(opts.highlight) == "table" and type(opts.highlight.disable) == "table" then

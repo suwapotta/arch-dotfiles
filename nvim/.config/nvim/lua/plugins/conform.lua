@@ -9,6 +9,7 @@ return {
       tex = { "latexindent" },
       -- kdl = { "kdlfmt" },
     })
+
     return opts
   end,
 }
